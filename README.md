@@ -31,4 +31,6 @@
 
 ---
 
-Last updated: 2025-08-11
+![](https://komarev.com/ghpvc/?username=bio-Senyu&label=Profile%20views)
+
+Last updated: 2025-08-14

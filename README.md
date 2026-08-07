@@ -10,14 +10,14 @@
 
 ---
 
-### About / 关于我
+### About
 
 | | |
 |---|---|
-| 🎓 Education / 教育 | MSc @ University of Chinese Academy of Sciences (UCAS) → PhD @ Zhejiang University (ZJU), Sep 2026 |
-| 🔬 Field / 方向 | Bioinformatics & Developmental Biology / 生物信息学与发育生物学 |
-| 🧬 Research / 研究 | single-cell transcriptomics · development · sex differences / 单细胞转录组 · 发育 · 性别差异 |
-| 📬 Contact / 联系 | [luosenyu23@mails.ucas.ac.cn](mailto:luosenyu23@mails.ucas.ac.cn) |
+| 🎓 Education | MSc @ University of Chinese Academy of Sciences (UCAS) → PhD @ Zhejiang University (ZJU), Sep 2026 |
+| 🔬 Field | Bioinformatics & Developmental Biology |
+| 🧬 Research | single-cell transcriptomics · development · sex differences|
+| 📬 Contact | [luosenyu23@mails.ucas.ac.cn](mailto:luosenyu23@mails.ucas.ac.cn) |
 
 ---
 

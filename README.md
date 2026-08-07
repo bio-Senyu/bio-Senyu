@@ -1,36 +1,24 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<h1 align="center">
-  Hey, I'm Senyu Luo 👋
-</h1>
-
 <p align="center">
-  <em>Graduate Student @ University of Chinese Academy of Sciences (UCAS)</em><br>
-  <strong>Bioinformation & Developmental Biology</strong><br>
-  Exploring single-cell transcriptomes to decode development and sex differences.
+  <img src="https://img.shields.io/badge/UCAS-MSc-%234285F4?style=flat" alt="UCAS MSc"/>
+  <img src="https://img.shields.io/badge/ZJU-PhD-%23a21c94?style=flat" alt="ZJU PhD"/>
+  <img src="https://img.shields.io/badge/Bioinformatics-%26%20Dev%20Biol-24292e?style=flat" alt="Field"/>
 </p>
 
-<p align="center">
-  <a href="mailto:luosenyu23@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/bio-Senyu"><img src="https://img.shields.io/github/followers/bio-Senyu?style=flat&label=Followers&logo=github&color=24292e"/></a>
-</p>
+<h1 align="center">Senyu Luo</h1>
+<p align="center"><em>single-cell transcriptomics · development · sex differences</em></p>
 
 ---
 
+### About / 关于我
 
-### 🛠️ Tech Stack
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"/></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/scverse/scanpy/master/docs/_static/img/Scanpy_Logo_BrightFG.svg" alt="Scanpy"/></code>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bio-Senyu&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bio-Senyu&theme=radical" alt="GitHub streak" />
-</p>
+| | |
+|---|---|
+| 🎓 Education / 教育 | MSc @ University of Chinese Academy of Sciences (UCAS) → PhD @ Zhejiang University (ZJU), Sep 2026 |
+| 🔬 Field / 方向 | Bioinformatics & Developmental Biology / 生物信息学与发育生物学 |
+| 🧬 Research / 研究 | single-cell transcriptomics · development · sex differences / 单细胞转录组 · 发育 · 性别差异 |
+| 📬 Contact / 联系 | [luosenyu23@mails.ucas.ac.cn](mailto:luosenyu23@mails.ucas.ac.cn) |
 
 ---
 
-![](https://komarev.com/ghpvc/?username=bio-Senyu&label=Profile%20views)
-
-Last updated: 2025-08-14
+<p align="center"><sub>Last updated: 2026-08-07</sub></p>

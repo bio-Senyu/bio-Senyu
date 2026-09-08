@@ -17,8 +17,8 @@
 | 🎓 Education | MSc @ University of Chinese Academy of Sciences (UCAS) → PhD @ Zhejiang University (ZJU), Sep 2026 |
 | 🔬 Field | Bioinformatics & Developmental Biology |
 | 🧬 Research | single-cell transcriptomics · development · sex differences|
-| 📬 Contact | [luosenyu23@mails.ucas.ac.cn](mailto:luosenyu23@mails.ucas.ac.cn) |
+| 📬 Contact | [luosenyu23@mails.ucas.ac.cn](mailto:luosenyu23@mails.ucas.ac.cn) / [luosenyu@zju.edu.cn](mailto:luosenyu@zju.edu.cn)|
 
 ---
 
-<p align="center"><sub>Last updated: 2026-08-07</sub></p>
+<p align="center"><sub>Last updated: 2026-09-08</sub></p>

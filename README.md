@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Senyu Luo</h1>
-<p align="center"><em>single-cell transcriptomics · development · sex differences</em></p>
+<p align="center"><em>Evo-Devo · Sex Determination & Differentiation · Single-cell Transcriptomics</em></p>
 
 ---
 
